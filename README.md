@@ -18,6 +18,7 @@ Este projeto foi criado como parte de curso de formação frontend.
 
 
 - API Intersection Observer
+    
     O código JavaScript utiliza a API Intersection Observer para detectar quando as imagens entram na visualização do usuário. Quando uma imagem está prestes a entrar na visualização, seu atributo src é atualizado para o caminho da imagem de alta resolução, substituindo o caminho da imagem de baixa resolução. Isso garante que apenas as imagens visíveis na tela sejam carregadas, enquanto as imagens fora da visualização são adiadas até que sejam necessárias.
 
 
